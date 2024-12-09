@@ -1,5 +1,5 @@
 
-# 📝 The Impact of Tokenization on TinyBERT Performance Across Text Classification Tasks
+# 📝 The Impact of Tokenization on TinyBERT Performance Across Text Classification Tasks!
 
 This repository demonstrates the use of text classification techniques by using three popular tokenization methods: **BPE (Byte Pair Encoding)**, **WordPiece**, and **SentencePiece**. In addition to tokenization, the project includes fine-tuning of a lightweight BERT model, Tiny BERT, to achieve efficient and accurate classification on datasets like IMDb, AG News, and Yelp. This combination of tokenization strategies and model fine-tuning showcases the impact of preprocessing and optimization on NLP tasks.
 
